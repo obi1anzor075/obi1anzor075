@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my secret project<br>👯 I’m looking to collaborate on quiz project<br>🌱 I’m currently learning ASP.NET<br>💬 Ask me about my project<br>
+🔭 I’m currently working on my secret project<br>🌱 I’m currently learning ASP.NET<br>💬 Ask me about my projects<br>
 
 
 # 💻 Tech Stack:
