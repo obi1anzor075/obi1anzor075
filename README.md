@@ -132,6 +132,14 @@
   <p><a href="https://github.com/obi1anzor075/Verdict-AI-analyzer"><strong>Verdict</strong></a> — a browser extension and server for AI-assisted product review analysis.</p>
 </details>
 
+<h2 id="contact">Contact &amp; collaboration</h2>
+
+<p>
+  <a href="https://t.me/obi1anzor075"><img src="https://img.shields.io/badge/Message_me_on_Telegram-2563EB?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Message me on Telegram" /></a>
+</p>
+
+<p><a href="https://t.me/obi1anzor075">Telegram: @obi1anzor075</a> · <a href="./resume.pdf"><strong>View résumé (PDF)</strong></a></p>
+
 <h2>GitHub activity</h2>
 
 <p align="center">
