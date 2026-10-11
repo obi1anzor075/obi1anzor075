@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="#featured-projects"><img src="https://img.shields.io/badge/Explore_projects-6D28D9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore projects" /></a>
-  <a href="https://vk.com/obi1anzor075"><img src="https://img.shields.io/badge/Contact-2563EB?style=for-the-badge&amp;logo=vk&amp;logoColor=white" alt="Contact on VK" /></a>
+  <a href="https://vk.com/obi1anzor075"><img src="https://img.shields.io/badge/Contact_on_VK-2563EB?style=for-the-badge&amp;logo=vk&amp;logoColor=white" alt="Contact on VK" /></a>
+  <a href="https://t.me/obi1anzor075"><img src="https://img.shields.io/badge/Contact_on_Telegram-2563EB?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Contact on Telegram" /></a>
 </p>
 
 <h2>About me</h2>
